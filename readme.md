@@ -1,6 +1,6 @@
 # 使用React兼容ie8方案
 
-> 初步构建，请不要修改 `package.json`文件和 `webpack`等相关文件，如需添加 `less`或`sass`等预处理器，请联系管理员
+> 如果不熟悉`webpack`和`react`，请不要修改 `package.json`文件和 `webpack`等相关文件
 
 
 ```bash
